@@ -1,0 +1,5 @@
+﻿  Lab7_Hector_Flores_1199923.cpp
+C:\Users\HP\source\repos\Lab7_Hector_Flores_1199923\Lab7_Hector_Flores_1199923.cpp(64,152): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\source\repos\Lab7_Hector_Flores_1199923\Lab7_Hector_Flores_1199923.cpp(72,153): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Lab7_Hector_Flores_1199923.vcxproj -> C:\Users\HP\source\repos\Lab7_Hector_Flores_1199923\x64\Debug\Lab7_Hector_Flores_1199923.exe
